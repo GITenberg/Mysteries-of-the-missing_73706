@@ -1,0 +1,40 @@
+_repo: Mysteries-of-the-missing_73706
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, Edward H. (Edward Henry)
+    alias: Smith, Edward Henry
+    birthdate: 1881
+    deathdate: 1927
+    gutenberg_agent_id: '57191'
+    url: http://www.gutenberg.org/2009/agents/57191
+description: ''
+gutenberg_issued: '2024-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73706'
+language: en
+pgterms:marc904: https://digital.library.villanova.edu/Item/vudl:776539
+pgterms:marc905: 20230112140227smith
+pgterms:marc906: '1927'
+pgterms:marc907: us
+production_note: Demian Katz and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (Images courtesy of the Digital Library@Villanova University.)
+publication_note: '  $aNew York :$bThe Dial Press, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Biography'
+- !lcsh 'Kidnapping'
+- !lcsh 'Missing persons'
+- !lcc 'CT'
+- GITenberg
+tableOfContents: A note on disappearing -- The Charlie Ross enigma -- "Severed from
+  the race" -- The vanished Archduke -- The stolen Conway boy -- The lost heir of
+  Tichborne -- The kidnappers of Central Park -- Dorothy Arnold -- Eddie Cudahy and
+  Pat Crowe -- The Whitla kidnapping -- The mystery at Highbridge -- A nun in vivisepulture
+  -- The return of Jimmie Glass -- The fates and Joe Varotta -- The lost millionaire
+  -- The Ambrose Bierce irony -- The adventure of the century -- Spectral ships.
+title: Mysteries of the missing
+url: http://www.gutenberg.org/ebooks/73706
