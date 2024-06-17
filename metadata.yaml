@@ -1,5 +1,8 @@
 _repo: Mysteries-of-the-missing_73706
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73706-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, Edward H. (Edward Henry)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '57191'
     url: http://www.gutenberg.org/2009/agents/57191
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73706#Mysteries-of-the-missing
 gutenberg_issued: '2024-05-26'
 gutenberg_type: Text
 identifiers:
